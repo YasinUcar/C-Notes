@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\bin\Debug\net6.0\17ifDenDevam.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\bin\Debug\net6.0\17ifDenDevam.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\bin\Debug\net6.0\17ifDenDevam.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\bin\Debug\net6.0\17ifDenDevam.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\bin\Debug\net6.0\17ifDenDevam.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\obj\Debug\net6.0\17ifDenDevam.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\obj\Debug\net6.0\17ifDenDevam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\obj\Debug\net6.0\17ifDenDevam.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\obj\Debug\net6.0\17ifDenDevam.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\obj\Debug\net6.0\17ifDenDevam.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\obj\Debug\net6.0\17ifDenDevam.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\obj\Debug\net6.0\refint\17ifDenDevam.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\obj\Debug\net6.0\17ifDenDevam.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\obj\Debug\net6.0\17ifDenDevam.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\17ifDenDevam\obj\Debug\net6.0\ref\17ifDenDevam.dll

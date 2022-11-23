@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\bin\Debug\net6.0\14SwitchDevam.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\bin\Debug\net6.0\14SwitchDevam.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\bin\Debug\net6.0\14SwitchDevam.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\bin\Debug\net6.0\14SwitchDevam.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\bin\Debug\net6.0\14SwitchDevam.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\obj\Debug\net6.0\14SwitchDevam.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\obj\Debug\net6.0\14SwitchDevam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\obj\Debug\net6.0\14SwitchDevam.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\obj\Debug\net6.0\14SwitchDevam.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\obj\Debug\net6.0\14SwitchDevam.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\obj\Debug\net6.0\14SwitchDevam.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\obj\Debug\net6.0\refint\14SwitchDevam.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\obj\Debug\net6.0\14SwitchDevam.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\obj\Debug\net6.0\14SwitchDevam.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\14SwitchDevam\obj\Debug\net6.0\ref\14SwitchDevam.dll

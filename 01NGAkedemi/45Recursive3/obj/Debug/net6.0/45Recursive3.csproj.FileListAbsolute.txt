@@ -1,0 +1,5 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\45Recursive3\obj\Debug\net6.0\45Recursive3.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\45Recursive3\obj\Debug\net6.0\45Recursive3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\45Recursive3\obj\Debug\net6.0\45Recursive3.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\45Recursive3\obj\Debug\net6.0\45Recursive3.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\45Recursive3\obj\Debug\net6.0\45Recursive3.csproj.CoreCompileInputs.cache

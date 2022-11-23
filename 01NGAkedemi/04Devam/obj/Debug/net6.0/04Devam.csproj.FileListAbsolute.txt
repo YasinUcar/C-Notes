@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\bin\Debug\net6.0\04Devam.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\bin\Debug\net6.0\04Devam.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\bin\Debug\net6.0\04Devam.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\bin\Debug\net6.0\04Devam.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\bin\Debug\net6.0\04Devam.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\obj\Debug\net6.0\04Devam.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\obj\Debug\net6.0\04Devam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\obj\Debug\net6.0\04Devam.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\obj\Debug\net6.0\04Devam.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\obj\Debug\net6.0\04Devam.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\obj\Debug\net6.0\04Devam.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\obj\Debug\net6.0\refint\04Devam.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\obj\Debug\net6.0\04Devam.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\obj\Debug\net6.0\04Devam.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\04Devam\obj\Debug\net6.0\ref\04Devam.dll

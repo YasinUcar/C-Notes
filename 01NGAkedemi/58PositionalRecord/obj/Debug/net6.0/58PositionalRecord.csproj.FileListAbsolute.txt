@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\bin\Debug\net6.0\58PositionalRecord.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\bin\Debug\net6.0\58PositionalRecord.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\bin\Debug\net6.0\58PositionalRecord.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\bin\Debug\net6.0\58PositionalRecord.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\bin\Debug\net6.0\58PositionalRecord.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\obj\Debug\net6.0\58PositionalRecord.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\obj\Debug\net6.0\58PositionalRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\obj\Debug\net6.0\58PositionalRecord.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\obj\Debug\net6.0\58PositionalRecord.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\obj\Debug\net6.0\58PositionalRecord.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\obj\Debug\net6.0\58PositionalRecord.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\obj\Debug\net6.0\refint\58PositionalRecord.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\obj\Debug\net6.0\58PositionalRecord.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\obj\Debug\net6.0\58PositionalRecord.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\58PositionalRecord\obj\Debug\net6.0\ref\58PositionalRecord.dll

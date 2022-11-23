@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\bin\Debug\net6.0\Deconstruct Metot.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\bin\Debug\net6.0\Deconstruct Metot.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\bin\Debug\net6.0\Deconstruct Metot.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\bin\Debug\net6.0\Deconstruct Metot.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\bin\Debug\net6.0\Deconstruct Metot.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\obj\Debug\net6.0\Deconstruct Metot.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\obj\Debug\net6.0\Deconstruct Metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\obj\Debug\net6.0\Deconstruct Metot.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\obj\Debug\net6.0\Deconstruct Metot.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\obj\Debug\net6.0\Deconstruct Metot.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\obj\Debug\net6.0\Deconstruct Metot.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\obj\Debug\net6.0\refint\Deconstruct Metot.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\obj\Debug\net6.0\Deconstruct Metot.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\obj\Debug\net6.0\Deconstruct Metot.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\56DeconstructMetot\Deconstruct Metot\obj\Debug\net6.0\ref\Deconstruct Metot.dll

@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\bin\Debug\net6.0\43LocalMetot.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\bin\Debug\net6.0\43LocalMetot.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\bin\Debug\net6.0\43LocalMetot.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\bin\Debug\net6.0\43LocalMetot.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\bin\Debug\net6.0\43LocalMetot.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\obj\Debug\net6.0\43LocalMetot.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\obj\Debug\net6.0\43LocalMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\obj\Debug\net6.0\43LocalMetot.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\obj\Debug\net6.0\43LocalMetot.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\obj\Debug\net6.0\43LocalMetot.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\obj\Debug\net6.0\43LocalMetot.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\obj\Debug\net6.0\refint\43LocalMetot.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\obj\Debug\net6.0\43LocalMetot.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\obj\Debug\net6.0\43LocalMetot.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\43LocalMetot\obj\Debug\net6.0\ref\43LocalMetot.dll

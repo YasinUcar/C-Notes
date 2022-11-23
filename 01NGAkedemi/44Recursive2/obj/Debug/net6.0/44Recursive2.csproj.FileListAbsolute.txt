@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\bin\Debug\net6.0\44Recursive2.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\bin\Debug\net6.0\44Recursive2.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\bin\Debug\net6.0\44Recursive2.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\bin\Debug\net6.0\44Recursive2.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\bin\Debug\net6.0\44Recursive2.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\obj\Debug\net6.0\44Recursive2.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\obj\Debug\net6.0\44Recursive2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\obj\Debug\net6.0\44Recursive2.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\obj\Debug\net6.0\44Recursive2.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\obj\Debug\net6.0\44Recursive2.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\obj\Debug\net6.0\44Recursive2.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\obj\Debug\net6.0\refint\44Recursive2.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\obj\Debug\net6.0\44Recursive2.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\obj\Debug\net6.0\44Recursive2.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\44Recursive2\obj\Debug\net6.0\ref\44Recursive2.dll

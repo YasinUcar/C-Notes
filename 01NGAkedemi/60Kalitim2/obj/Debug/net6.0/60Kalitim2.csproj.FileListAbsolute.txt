@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\bin\Debug\net6.0\60Kalitim2.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\bin\Debug\net6.0\60Kalitim2.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\bin\Debug\net6.0\60Kalitim2.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\bin\Debug\net6.0\60Kalitim2.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\bin\Debug\net6.0\60Kalitim2.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\obj\Debug\net6.0\60Kalitim2.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\obj\Debug\net6.0\60Kalitim2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\obj\Debug\net6.0\60Kalitim2.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\obj\Debug\net6.0\60Kalitim2.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\obj\Debug\net6.0\60Kalitim2.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\obj\Debug\net6.0\60Kalitim2.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\obj\Debug\net6.0\refint\60Kalitim2.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\obj\Debug\net6.0\60Kalitim2.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\obj\Debug\net6.0\60Kalitim2.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\60Kalitim2\obj\Debug\net6.0\ref\60Kalitim2.dll

@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\obj\Debug\net6.0\48Out.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\obj\Debug\net6.0\48Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\obj\Debug\net6.0\48Out.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\obj\Debug\net6.0\48Out.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\obj\Debug\net6.0\48Out.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\bin\Debug\net6.0\48Out.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\bin\Debug\net6.0\48Out.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\bin\Debug\net6.0\48Out.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\bin\Debug\net6.0\48Out.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\bin\Debug\net6.0\48Out.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\obj\Debug\net6.0\48Out.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\obj\Debug\net6.0\refint\48Out.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\obj\Debug\net6.0\48Out.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\obj\Debug\net6.0\48Out.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\48Out\obj\Debug\net6.0\ref\48Out.dll

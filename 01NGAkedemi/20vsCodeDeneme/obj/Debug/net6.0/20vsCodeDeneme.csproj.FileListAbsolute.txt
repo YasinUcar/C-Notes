@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\obj\Debug\net6.0\20vsCodeDeneme.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\obj\Debug\net6.0\20vsCodeDeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\obj\Debug\net6.0\20vsCodeDeneme.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\obj\Debug\net6.0\20vsCodeDeneme.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\obj\Debug\net6.0\20vsCodeDeneme.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\bin\Debug\net6.0\20vsCodeDeneme.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\bin\Debug\net6.0\20vsCodeDeneme.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\bin\Debug\net6.0\20vsCodeDeneme.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\bin\Debug\net6.0\20vsCodeDeneme.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\bin\Debug\net6.0\20vsCodeDeneme.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\obj\Debug\net6.0\20vsCodeDeneme.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\obj\Debug\net6.0\refint\20vsCodeDeneme.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\obj\Debug\net6.0\20vsCodeDeneme.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\obj\Debug\net6.0\20vsCodeDeneme.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\20vsCodeDeneme\obj\Debug\net6.0\ref\20vsCodeDeneme.dll

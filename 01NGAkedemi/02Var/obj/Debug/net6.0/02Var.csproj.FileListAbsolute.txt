@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\bin\Debug\net6.0\02Var.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\bin\Debug\net6.0\02Var.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\bin\Debug\net6.0\02Var.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\bin\Debug\net6.0\02Var.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\bin\Debug\net6.0\02Var.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\obj\Debug\net6.0\02Var.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\obj\Debug\net6.0\02Var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\obj\Debug\net6.0\02Var.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\obj\Debug\net6.0\02Var.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\obj\Debug\net6.0\02Var.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\obj\Debug\net6.0\02Var.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\obj\Debug\net6.0\refint\02Var.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\obj\Debug\net6.0\02Var.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\obj\Debug\net6.0\02Var.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\02Var\obj\Debug\net6.0\ref\02Var.dll

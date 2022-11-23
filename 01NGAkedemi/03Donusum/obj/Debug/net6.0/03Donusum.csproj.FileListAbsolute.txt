@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\bin\Debug\net6.0\03Donusum.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\bin\Debug\net6.0\03Donusum.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\bin\Debug\net6.0\03Donusum.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\bin\Debug\net6.0\03Donusum.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\bin\Debug\net6.0\03Donusum.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\obj\Debug\net6.0\03Donusum.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\obj\Debug\net6.0\03Donusum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\obj\Debug\net6.0\03Donusum.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\obj\Debug\net6.0\03Donusum.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\obj\Debug\net6.0\03Donusum.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\obj\Debug\net6.0\03Donusum.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\obj\Debug\net6.0\refint\03Donusum.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\obj\Debug\net6.0\03Donusum.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\obj\Debug\net6.0\03Donusum.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\03Donusum\obj\Debug\net6.0\ref\03Donusum.dll

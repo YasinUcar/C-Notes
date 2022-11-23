@@ -1,0 +1,15 @@
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\bin\Debug\net6.0\31SonlaraDogru.exe
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\bin\Debug\net6.0\31SonlaraDogru.deps.json
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\bin\Debug\net6.0\31SonlaraDogru.runtimeconfig.json
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\bin\Debug\net6.0\31SonlaraDogru.dll
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\bin\Debug\net6.0\31SonlaraDogru.pdb
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\obj\Debug\net6.0\31SonlaraDogru.csproj.AssemblyReference.cache
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\obj\Debug\net6.0\31SonlaraDogru.GeneratedMSBuildEditorConfig.editorconfig
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\obj\Debug\net6.0\31SonlaraDogru.AssemblyInfoInputs.cache
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\obj\Debug\net6.0\31SonlaraDogru.AssemblyInfo.cs
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\obj\Debug\net6.0\31SonlaraDogru.csproj.CoreCompileInputs.cache
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\obj\Debug\net6.0\31SonlaraDogru.dll
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\obj\Debug\net6.0\refint\31SonlaraDogru.dll
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\obj\Debug\net6.0\31SonlaraDogru.pdb
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\obj\Debug\net6.0\31SonlaraDogru.genruntimeconfig.cache
+F:\zYedekler\C#\01NGAkedemi\31SonlaraDogru\obj\Debug\net6.0\ref\31SonlaraDogru.dll

@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\obj\Debug\net6.0\12Devamlilik.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\obj\Debug\net6.0\12Devamlilik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\obj\Debug\net6.0\12Devamlilik.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\obj\Debug\net6.0\12Devamlilik.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\obj\Debug\net6.0\12Devamlilik.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\bin\Debug\net6.0\12Devamlilik.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\bin\Debug\net6.0\12Devamlilik.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\bin\Debug\net6.0\12Devamlilik.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\bin\Debug\net6.0\12Devamlilik.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\bin\Debug\net6.0\12Devamlilik.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\obj\Debug\net6.0\12Devamlilik.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\obj\Debug\net6.0\refint\12Devamlilik.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\obj\Debug\net6.0\12Devamlilik.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\obj\Debug\net6.0\12Devamlilik.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\12Devamlilik\obj\Debug\net6.0\ref\12Devamlilik.dll

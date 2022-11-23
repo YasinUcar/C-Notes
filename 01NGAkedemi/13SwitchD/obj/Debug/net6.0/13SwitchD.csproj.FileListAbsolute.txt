@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\bin\Debug\net6.0\13SwitchD.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\bin\Debug\net6.0\13SwitchD.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\bin\Debug\net6.0\13SwitchD.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\bin\Debug\net6.0\13SwitchD.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\bin\Debug\net6.0\13SwitchD.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\obj\Debug\net6.0\13SwitchD.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\obj\Debug\net6.0\13SwitchD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\obj\Debug\net6.0\13SwitchD.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\obj\Debug\net6.0\13SwitchD.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\obj\Debug\net6.0\13SwitchD.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\obj\Debug\net6.0\13SwitchD.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\obj\Debug\net6.0\refint\13SwitchD.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\obj\Debug\net6.0\13SwitchD.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\obj\Debug\net6.0\13SwitchD.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\13SwitchD\obj\Debug\net6.0\ref\13SwitchD.dll

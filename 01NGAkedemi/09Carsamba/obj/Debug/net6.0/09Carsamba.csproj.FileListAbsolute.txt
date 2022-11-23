@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\bin\Debug\net6.0\09Carsamba.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\bin\Debug\net6.0\09Carsamba.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\bin\Debug\net6.0\09Carsamba.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\bin\Debug\net6.0\09Carsamba.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\bin\Debug\net6.0\09Carsamba.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\obj\Debug\net6.0\09Carsamba.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\obj\Debug\net6.0\09Carsamba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\obj\Debug\net6.0\09Carsamba.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\obj\Debug\net6.0\09Carsamba.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\obj\Debug\net6.0\09Carsamba.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\obj\Debug\net6.0\09Carsamba.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\obj\Debug\net6.0\refint\09Carsamba.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\obj\Debug\net6.0\09Carsamba.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\obj\Debug\net6.0\09Carsamba.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\09Carsamba\obj\Debug\net6.0\ref\09Carsamba.dll

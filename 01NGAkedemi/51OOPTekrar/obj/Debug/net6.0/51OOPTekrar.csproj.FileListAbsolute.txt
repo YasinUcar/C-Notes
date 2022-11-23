@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\bin\Debug\net6.0\51OOPTekrar.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\bin\Debug\net6.0\51OOPTekrar.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\bin\Debug\net6.0\51OOPTekrar.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\bin\Debug\net6.0\51OOPTekrar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\bin\Debug\net6.0\51OOPTekrar.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\obj\Debug\net6.0\51OOPTekrar.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\obj\Debug\net6.0\51OOPTekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\obj\Debug\net6.0\51OOPTekrar.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\obj\Debug\net6.0\51OOPTekrar.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\obj\Debug\net6.0\51OOPTekrar.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\obj\Debug\net6.0\51OOPTekrar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\obj\Debug\net6.0\refint\51OOPTekrar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\obj\Debug\net6.0\51OOPTekrar.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\obj\Debug\net6.0\51OOPTekrar.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\51OOPTekrar\obj\Debug\net6.0\ref\51OOPTekrar.dll

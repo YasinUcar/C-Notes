@@ -1,0 +1,15 @@
+F:\zYedekler\C#\01NGAkedemi\25ToDo\bin\Debug\net6.0\25ToDo.exe
+F:\zYedekler\C#\01NGAkedemi\25ToDo\bin\Debug\net6.0\25ToDo.deps.json
+F:\zYedekler\C#\01NGAkedemi\25ToDo\bin\Debug\net6.0\25ToDo.runtimeconfig.json
+F:\zYedekler\C#\01NGAkedemi\25ToDo\bin\Debug\net6.0\25ToDo.dll
+F:\zYedekler\C#\01NGAkedemi\25ToDo\bin\Debug\net6.0\25ToDo.pdb
+F:\zYedekler\C#\01NGAkedemi\25ToDo\obj\Debug\net6.0\25ToDo.csproj.AssemblyReference.cache
+F:\zYedekler\C#\01NGAkedemi\25ToDo\obj\Debug\net6.0\25ToDo.GeneratedMSBuildEditorConfig.editorconfig
+F:\zYedekler\C#\01NGAkedemi\25ToDo\obj\Debug\net6.0\25ToDo.AssemblyInfoInputs.cache
+F:\zYedekler\C#\01NGAkedemi\25ToDo\obj\Debug\net6.0\25ToDo.AssemblyInfo.cs
+F:\zYedekler\C#\01NGAkedemi\25ToDo\obj\Debug\net6.0\25ToDo.csproj.CoreCompileInputs.cache
+F:\zYedekler\C#\01NGAkedemi\25ToDo\obj\Debug\net6.0\25ToDo.dll
+F:\zYedekler\C#\01NGAkedemi\25ToDo\obj\Debug\net6.0\refint\25ToDo.dll
+F:\zYedekler\C#\01NGAkedemi\25ToDo\obj\Debug\net6.0\25ToDo.pdb
+F:\zYedekler\C#\01NGAkedemi\25ToDo\obj\Debug\net6.0\25ToDo.genruntimeconfig.cache
+F:\zYedekler\C#\01NGAkedemi\25ToDo\obj\Debug\net6.0\ref\25ToDo.dll

@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\obj\Debug\net6.0\46Tekrar.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\obj\Debug\net6.0\46Tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\obj\Debug\net6.0\46Tekrar.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\obj\Debug\net6.0\46Tekrar.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\obj\Debug\net6.0\46Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\bin\Debug\net6.0\46Tekrar.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\bin\Debug\net6.0\46Tekrar.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\bin\Debug\net6.0\46Tekrar.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\bin\Debug\net6.0\46Tekrar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\bin\Debug\net6.0\46Tekrar.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\obj\Debug\net6.0\46Tekrar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\obj\Debug\net6.0\refint\46Tekrar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\obj\Debug\net6.0\46Tekrar.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\obj\Debug\net6.0\46Tekrar.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\46Tekrar\obj\Debug\net6.0\ref\46Tekrar.dll

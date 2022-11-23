@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\bin\Debug\net6.0\11AkisKontrol.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\bin\Debug\net6.0\11AkisKontrol.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\bin\Debug\net6.0\11AkisKontrol.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\bin\Debug\net6.0\11AkisKontrol.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\bin\Debug\net6.0\11AkisKontrol.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\obj\Debug\net6.0\11AkisKontrol.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\obj\Debug\net6.0\11AkisKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\obj\Debug\net6.0\11AkisKontrol.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\obj\Debug\net6.0\11AkisKontrol.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\obj\Debug\net6.0\11AkisKontrol.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\obj\Debug\net6.0\11AkisKontrol.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\obj\Debug\net6.0\refint\11AkisKontrol.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\obj\Debug\net6.0\11AkisKontrol.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\obj\Debug\net6.0\11AkisKontrol.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\11AkisKontrol\obj\Debug\net6.0\ref\11AkisKontrol.dll

@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\obj\Debug\net6.0\06Ternary.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\obj\Debug\net6.0\06Ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\obj\Debug\net6.0\06Ternary.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\obj\Debug\net6.0\06Ternary.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\obj\Debug\net6.0\06Ternary.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\bin\Debug\net6.0\06Ternary.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\bin\Debug\net6.0\06Ternary.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\bin\Debug\net6.0\06Ternary.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\bin\Debug\net6.0\06Ternary.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\bin\Debug\net6.0\06Ternary.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\obj\Debug\net6.0\06Ternary.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\obj\Debug\net6.0\refint\06Ternary.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\obj\Debug\net6.0\06Ternary.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\obj\Debug\net6.0\06Ternary.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06Ternary\obj\Debug\net6.0\ref\06Ternary.dll

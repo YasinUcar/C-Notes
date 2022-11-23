@@ -1,0 +1,15 @@
+F:\zYedekler\C#\01NGAkedemi\29String\bin\Debug\net6.0\29String.exe
+F:\zYedekler\C#\01NGAkedemi\29String\bin\Debug\net6.0\29String.deps.json
+F:\zYedekler\C#\01NGAkedemi\29String\bin\Debug\net6.0\29String.runtimeconfig.json
+F:\zYedekler\C#\01NGAkedemi\29String\bin\Debug\net6.0\29String.dll
+F:\zYedekler\C#\01NGAkedemi\29String\bin\Debug\net6.0\29String.pdb
+F:\zYedekler\C#\01NGAkedemi\29String\obj\Debug\net6.0\29String.csproj.AssemblyReference.cache
+F:\zYedekler\C#\01NGAkedemi\29String\obj\Debug\net6.0\29String.GeneratedMSBuildEditorConfig.editorconfig
+F:\zYedekler\C#\01NGAkedemi\29String\obj\Debug\net6.0\29String.AssemblyInfoInputs.cache
+F:\zYedekler\C#\01NGAkedemi\29String\obj\Debug\net6.0\29String.AssemblyInfo.cs
+F:\zYedekler\C#\01NGAkedemi\29String\obj\Debug\net6.0\29String.csproj.CoreCompileInputs.cache
+F:\zYedekler\C#\01NGAkedemi\29String\obj\Debug\net6.0\29String.dll
+F:\zYedekler\C#\01NGAkedemi\29String\obj\Debug\net6.0\refint\29String.dll
+F:\zYedekler\C#\01NGAkedemi\29String\obj\Debug\net6.0\29String.pdb
+F:\zYedekler\C#\01NGAkedemi\29String\obj\Debug\net6.0\29String.genruntimeconfig.cache
+F:\zYedekler\C#\01NGAkedemi\29String\obj\Debug\net6.0\ref\29String.dll

@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\bin\Debug\net6.0\39DataFonksiyonlar.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\bin\Debug\net6.0\39DataFonksiyonlar.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\bin\Debug\net6.0\39DataFonksiyonlar.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\bin\Debug\net6.0\39DataFonksiyonlar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\bin\Debug\net6.0\39DataFonksiyonlar.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\obj\Debug\net6.0\39DataFonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\obj\Debug\net6.0\39DataFonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\obj\Debug\net6.0\39DataFonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\obj\Debug\net6.0\39DataFonksiyonlar.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\obj\Debug\net6.0\39DataFonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\obj\Debug\net6.0\39DataFonksiyonlar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\obj\Debug\net6.0\refint\39DataFonksiyonlar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\obj\Debug\net6.0\39DataFonksiyonlar.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\obj\Debug\net6.0\39DataFonksiyonlar.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\39DataFonksiyonlar\obj\Debug\net6.0\ref\39DataFonksiyonlar.dll

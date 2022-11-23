@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\bin\Debug\net6.0\05100Sonra.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\bin\Debug\net6.0\05100Sonra.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\bin\Debug\net6.0\05100Sonra.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\bin\Debug\net6.0\05100Sonra.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\bin\Debug\net6.0\05100Sonra.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\obj\Debug\net6.0\05100Sonra.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\obj\Debug\net6.0\05100Sonra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\obj\Debug\net6.0\05100Sonra.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\obj\Debug\net6.0\05100Sonra.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\obj\Debug\net6.0\05100Sonra.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\obj\Debug\net6.0\05100Sonra.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\obj\Debug\net6.0\refint\05100Sonra.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\obj\Debug\net6.0\05100Sonra.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\obj\Debug\net6.0\05100Sonra.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\05100Sonra\obj\Debug\net6.0\ref\05100Sonra.dll

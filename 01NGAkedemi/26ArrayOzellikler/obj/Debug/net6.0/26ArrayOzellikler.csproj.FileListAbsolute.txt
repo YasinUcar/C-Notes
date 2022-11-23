@@ -1,0 +1,15 @@
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\bin\Debug\net6.0\26ArrayOzellikler.exe
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\bin\Debug\net6.0\26ArrayOzellikler.deps.json
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\bin\Debug\net6.0\26ArrayOzellikler.runtimeconfig.json
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\bin\Debug\net6.0\26ArrayOzellikler.dll
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\bin\Debug\net6.0\26ArrayOzellikler.pdb
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\obj\Debug\net6.0\26ArrayOzellikler.csproj.AssemblyReference.cache
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\obj\Debug\net6.0\26ArrayOzellikler.GeneratedMSBuildEditorConfig.editorconfig
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\obj\Debug\net6.0\26ArrayOzellikler.AssemblyInfoInputs.cache
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\obj\Debug\net6.0\26ArrayOzellikler.AssemblyInfo.cs
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\obj\Debug\net6.0\26ArrayOzellikler.csproj.CoreCompileInputs.cache
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\obj\Debug\net6.0\26ArrayOzellikler.dll
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\obj\Debug\net6.0\refint\26ArrayOzellikler.dll
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\obj\Debug\net6.0\26ArrayOzellikler.pdb
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\obj\Debug\net6.0\26ArrayOzellikler.genruntimeconfig.cache
+F:\zYedekler\C#\01NGAkedemi\26ArrayOzellikler\obj\Debug\net6.0\ref\26ArrayOzellikler.dll

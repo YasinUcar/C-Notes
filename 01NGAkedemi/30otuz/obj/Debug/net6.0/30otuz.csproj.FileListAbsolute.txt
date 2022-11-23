@@ -1,0 +1,15 @@
+F:\zYedekler\C#\01NGAkedemi\30otuz\bin\Debug\net6.0\30otuz.exe
+F:\zYedekler\C#\01NGAkedemi\30otuz\bin\Debug\net6.0\30otuz.deps.json
+F:\zYedekler\C#\01NGAkedemi\30otuz\bin\Debug\net6.0\30otuz.runtimeconfig.json
+F:\zYedekler\C#\01NGAkedemi\30otuz\bin\Debug\net6.0\30otuz.dll
+F:\zYedekler\C#\01NGAkedemi\30otuz\bin\Debug\net6.0\30otuz.pdb
+F:\zYedekler\C#\01NGAkedemi\30otuz\obj\Debug\net6.0\30otuz.csproj.AssemblyReference.cache
+F:\zYedekler\C#\01NGAkedemi\30otuz\obj\Debug\net6.0\30otuz.GeneratedMSBuildEditorConfig.editorconfig
+F:\zYedekler\C#\01NGAkedemi\30otuz\obj\Debug\net6.0\30otuz.AssemblyInfoInputs.cache
+F:\zYedekler\C#\01NGAkedemi\30otuz\obj\Debug\net6.0\30otuz.AssemblyInfo.cs
+F:\zYedekler\C#\01NGAkedemi\30otuz\obj\Debug\net6.0\30otuz.csproj.CoreCompileInputs.cache
+F:\zYedekler\C#\01NGAkedemi\30otuz\obj\Debug\net6.0\30otuz.dll
+F:\zYedekler\C#\01NGAkedemi\30otuz\obj\Debug\net6.0\refint\30otuz.dll
+F:\zYedekler\C#\01NGAkedemi\30otuz\obj\Debug\net6.0\30otuz.pdb
+F:\zYedekler\C#\01NGAkedemi\30otuz\obj\Debug\net6.0\30otuz.genruntimeconfig.cache
+F:\zYedekler\C#\01NGAkedemi\30otuz\obj\Debug\net6.0\ref\30otuz.dll

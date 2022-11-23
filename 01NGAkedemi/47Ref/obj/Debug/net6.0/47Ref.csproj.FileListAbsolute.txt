@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\obj\Debug\net6.0\47Ref.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\obj\Debug\net6.0\47Ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\obj\Debug\net6.0\47Ref.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\obj\Debug\net6.0\47Ref.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\obj\Debug\net6.0\47Ref.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\bin\Debug\net6.0\47Ref.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\bin\Debug\net6.0\47Ref.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\bin\Debug\net6.0\47Ref.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\bin\Debug\net6.0\47Ref.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\bin\Debug\net6.0\47Ref.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\obj\Debug\net6.0\47Ref.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\obj\Debug\net6.0\refint\47Ref.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\obj\Debug\net6.0\47Ref.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\obj\Debug\net6.0\47Ref.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\47Ref\obj\Debug\net6.0\ref\47Ref.dll

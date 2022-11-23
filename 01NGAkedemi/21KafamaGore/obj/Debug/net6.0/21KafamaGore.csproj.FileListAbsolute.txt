@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\bin\Debug\net6.0\21KafamaGore.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\bin\Debug\net6.0\21KafamaGore.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\bin\Debug\net6.0\21KafamaGore.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\bin\Debug\net6.0\21KafamaGore.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\bin\Debug\net6.0\21KafamaGore.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\obj\Debug\net6.0\21KafamaGore.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\obj\Debug\net6.0\21KafamaGore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\obj\Debug\net6.0\21KafamaGore.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\obj\Debug\net6.0\21KafamaGore.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\obj\Debug\net6.0\21KafamaGore.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\obj\Debug\net6.0\21KafamaGore.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\obj\Debug\net6.0\refint\21KafamaGore.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\obj\Debug\net6.0\21KafamaGore.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\obj\Debug\net6.0\21KafamaGore.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\21KafamaGore\obj\Debug\net6.0\ref\21KafamaGore.dll

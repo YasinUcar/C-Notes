@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\obj\Debug\net6.0\07110Sonrasi.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\obj\Debug\net6.0\07110Sonrasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\obj\Debug\net6.0\07110Sonrasi.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\obj\Debug\net6.0\07110Sonrasi.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\obj\Debug\net6.0\07110Sonrasi.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\bin\Debug\net6.0\07110Sonrasi.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\bin\Debug\net6.0\07110Sonrasi.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\bin\Debug\net6.0\07110Sonrasi.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\bin\Debug\net6.0\07110Sonrasi.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\bin\Debug\net6.0\07110Sonrasi.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\obj\Debug\net6.0\07110Sonrasi.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\obj\Debug\net6.0\refint\07110Sonrasi.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\obj\Debug\net6.0\07110Sonrasi.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\obj\Debug\net6.0\07110Sonrasi.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\07110Sonrasi\obj\Debug\net6.0\ref\07110Sonrasi.dll

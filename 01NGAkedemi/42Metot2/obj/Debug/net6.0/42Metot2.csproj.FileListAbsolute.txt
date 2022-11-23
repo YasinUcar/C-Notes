@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\bin\Debug\net6.0\42Metot2.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\bin\Debug\net6.0\42Metot2.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\bin\Debug\net6.0\42Metot2.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\bin\Debug\net6.0\42Metot2.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\bin\Debug\net6.0\42Metot2.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\obj\Debug\net6.0\42Metot2.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\obj\Debug\net6.0\42Metot2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\obj\Debug\net6.0\42Metot2.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\obj\Debug\net6.0\42Metot2.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\obj\Debug\net6.0\42Metot2.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\obj\Debug\net6.0\42Metot2.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\obj\Debug\net6.0\refint\42Metot2.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\obj\Debug\net6.0\42Metot2.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\obj\Debug\net6.0\42Metot2.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\42Metot2\obj\Debug\net6.0\ref\42Metot2.dll

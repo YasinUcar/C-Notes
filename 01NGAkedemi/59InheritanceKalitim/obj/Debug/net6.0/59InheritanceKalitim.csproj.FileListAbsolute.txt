@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\obj\Debug\net6.0\59InheritanceKalitim.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\obj\Debug\net6.0\59InheritanceKalitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\obj\Debug\net6.0\59InheritanceKalitim.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\obj\Debug\net6.0\59InheritanceKalitim.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\obj\Debug\net6.0\59InheritanceKalitim.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\bin\Debug\net6.0\59InheritanceKalitim.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\bin\Debug\net6.0\59InheritanceKalitim.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\bin\Debug\net6.0\59InheritanceKalitim.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\bin\Debug\net6.0\59InheritanceKalitim.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\bin\Debug\net6.0\59InheritanceKalitim.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\obj\Debug\net6.0\59InheritanceKalitim.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\obj\Debug\net6.0\refint\59InheritanceKalitim.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\obj\Debug\net6.0\59InheritanceKalitim.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\obj\Debug\net6.0\59InheritanceKalitim.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\59InheritanceKalitim\obj\Debug\net6.0\ref\59InheritanceKalitim.dll

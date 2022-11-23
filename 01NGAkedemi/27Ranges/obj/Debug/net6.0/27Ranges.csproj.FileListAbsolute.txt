@@ -1,0 +1,15 @@
+F:\zYedekler\C#\01NGAkedemi\27Ranges\bin\Debug\net6.0\27Ranges.exe
+F:\zYedekler\C#\01NGAkedemi\27Ranges\bin\Debug\net6.0\27Ranges.deps.json
+F:\zYedekler\C#\01NGAkedemi\27Ranges\bin\Debug\net6.0\27Ranges.runtimeconfig.json
+F:\zYedekler\C#\01NGAkedemi\27Ranges\bin\Debug\net6.0\27Ranges.dll
+F:\zYedekler\C#\01NGAkedemi\27Ranges\bin\Debug\net6.0\27Ranges.pdb
+F:\zYedekler\C#\01NGAkedemi\27Ranges\obj\Debug\net6.0\27Ranges.csproj.AssemblyReference.cache
+F:\zYedekler\C#\01NGAkedemi\27Ranges\obj\Debug\net6.0\27Ranges.GeneratedMSBuildEditorConfig.editorconfig
+F:\zYedekler\C#\01NGAkedemi\27Ranges\obj\Debug\net6.0\27Ranges.AssemblyInfoInputs.cache
+F:\zYedekler\C#\01NGAkedemi\27Ranges\obj\Debug\net6.0\27Ranges.AssemblyInfo.cs
+F:\zYedekler\C#\01NGAkedemi\27Ranges\obj\Debug\net6.0\27Ranges.csproj.CoreCompileInputs.cache
+F:\zYedekler\C#\01NGAkedemi\27Ranges\obj\Debug\net6.0\27Ranges.dll
+F:\zYedekler\C#\01NGAkedemi\27Ranges\obj\Debug\net6.0\refint\27Ranges.dll
+F:\zYedekler\C#\01NGAkedemi\27Ranges\obj\Debug\net6.0\27Ranges.pdb
+F:\zYedekler\C#\01NGAkedemi\27Ranges\obj\Debug\net6.0\27Ranges.genruntimeconfig.cache
+F:\zYedekler\C#\01NGAkedemi\27Ranges\obj\Debug\net6.0\ref\27Ranges.dll

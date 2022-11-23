@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\bin\Debug\net6.0\37Koleksiyonlar.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\bin\Debug\net6.0\37Koleksiyonlar.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\bin\Debug\net6.0\37Koleksiyonlar.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\bin\Debug\net6.0\37Koleksiyonlar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\bin\Debug\net6.0\37Koleksiyonlar.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\obj\Debug\net6.0\37Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\obj\Debug\net6.0\37Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\obj\Debug\net6.0\37Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\obj\Debug\net6.0\37Koleksiyonlar.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\obj\Debug\net6.0\37Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\obj\Debug\net6.0\37Koleksiyonlar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\obj\Debug\net6.0\refint\37Koleksiyonlar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\obj\Debug\net6.0\37Koleksiyonlar.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\obj\Debug\net6.0\37Koleksiyonlar.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\37Koleksiyonlar\obj\Debug\net6.0\ref\37Koleksiyonlar.dll

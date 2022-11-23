@@ -1,0 +1,15 @@
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\bin\Debug\net6.0\28CokBoyutlu.exe
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\bin\Debug\net6.0\28CokBoyutlu.deps.json
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\bin\Debug\net6.0\28CokBoyutlu.runtimeconfig.json
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\bin\Debug\net6.0\28CokBoyutlu.dll
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\bin\Debug\net6.0\28CokBoyutlu.pdb
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\obj\Debug\net6.0\28CokBoyutlu.csproj.AssemblyReference.cache
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\obj\Debug\net6.0\28CokBoyutlu.GeneratedMSBuildEditorConfig.editorconfig
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\obj\Debug\net6.0\28CokBoyutlu.AssemblyInfoInputs.cache
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\obj\Debug\net6.0\28CokBoyutlu.AssemblyInfo.cs
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\obj\Debug\net6.0\28CokBoyutlu.csproj.CoreCompileInputs.cache
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\obj\Debug\net6.0\28CokBoyutlu.dll
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\obj\Debug\net6.0\refint\28CokBoyutlu.dll
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\obj\Debug\net6.0\28CokBoyutlu.pdb
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\obj\Debug\net6.0\28CokBoyutlu.genruntimeconfig.cache
+F:\zYedekler\C#\01NGAkedemi\28CokBoyutlu\obj\Debug\net6.0\ref\28CokBoyutlu.dll

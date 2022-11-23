@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\obj\Debug\net6.0\06ArrtirAzalt.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\obj\Debug\net6.0\06ArrtirAzalt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\obj\Debug\net6.0\06ArrtirAzalt.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\obj\Debug\net6.0\06ArrtirAzalt.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\obj\Debug\net6.0\06ArrtirAzalt.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\bin\Debug\net6.0\06ArrtirAzalt.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\bin\Debug\net6.0\06ArrtirAzalt.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\bin\Debug\net6.0\06ArrtirAzalt.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\bin\Debug\net6.0\06ArrtirAzalt.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\bin\Debug\net6.0\06ArrtirAzalt.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\obj\Debug\net6.0\06ArrtirAzalt.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\obj\Debug\net6.0\refint\06ArrtirAzalt.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\obj\Debug\net6.0\06ArrtirAzalt.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\obj\Debug\net6.0\06ArrtirAzalt.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\06ArrtirAzalt\obj\Debug\net6.0\ref\06ArrtirAzalt.dll

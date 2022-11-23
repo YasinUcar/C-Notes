@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\bin\Debug\net6.0\00IlkDers.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\bin\Debug\net6.0\00IlkDers.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\bin\Debug\net6.0\00IlkDers.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\bin\Debug\net6.0\00IlkDers.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\bin\Debug\net6.0\00IlkDers.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\obj\Debug\net6.0\00IlkDers.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\obj\Debug\net6.0\00IlkDers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\obj\Debug\net6.0\00IlkDers.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\obj\Debug\net6.0\00IlkDers.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\obj\Debug\net6.0\00IlkDers.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\obj\Debug\net6.0\00IlkDers.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\obj\Debug\net6.0\refint\00IlkDers.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\obj\Debug\net6.0\00IlkDers.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\obj\Debug\net6.0\00IlkDers.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\00Ders1\00IlkDers\obj\Debug\net6.0\ref\00IlkDers.dll

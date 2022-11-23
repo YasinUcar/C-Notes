@@ -1,0 +1,15 @@
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\bin\Debug\net6.0\24NGAkademi.exe
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\bin\Debug\net6.0\24NGAkademi.deps.json
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\bin\Debug\net6.0\24NGAkademi.runtimeconfig.json
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\bin\Debug\net6.0\24NGAkademi.dll
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\bin\Debug\net6.0\24NGAkademi.pdb
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\obj\Debug\net6.0\24NGAkademi.csproj.AssemblyReference.cache
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\obj\Debug\net6.0\24NGAkademi.GeneratedMSBuildEditorConfig.editorconfig
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\obj\Debug\net6.0\24NGAkademi.AssemblyInfoInputs.cache
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\obj\Debug\net6.0\24NGAkademi.AssemblyInfo.cs
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\obj\Debug\net6.0\24NGAkademi.csproj.CoreCompileInputs.cache
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\obj\Debug\net6.0\24NGAkademi.dll
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\obj\Debug\net6.0\refint\24NGAkademi.dll
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\obj\Debug\net6.0\24NGAkademi.pdb
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\obj\Debug\net6.0\24NGAkademi.genruntimeconfig.cache
+F:\zYedekler\C#\01NGAkedemi\24NGAkademi\obj\Debug\net6.0\ref\24NGAkademi.dll

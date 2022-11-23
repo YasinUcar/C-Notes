@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metot", "Metot.csproj", "{1E3211F2-B2B3-4151-8741-371B8C4FACC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E3211F2-B2B3-4151-8741-371B8C4FACC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3211F2-B2B3-4151-8741-371B8C4FACC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3211F2-B2B3-4151-8741-371B8C4FACC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3211F2-B2B3-4151-8741-371B8C4FACC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA3BA9B7-19C1-4A0A-8CF7-A6B1CE95534F}
+	EndGlobalSection
+EndGlobal

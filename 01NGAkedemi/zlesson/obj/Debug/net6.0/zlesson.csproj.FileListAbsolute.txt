@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\bin\Debug\net6.0\zlesson.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\bin\Debug\net6.0\zlesson.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\bin\Debug\net6.0\zlesson.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\bin\Debug\net6.0\zlesson.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\bin\Debug\net6.0\zlesson.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\obj\Debug\net6.0\zlesson.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\obj\Debug\net6.0\zlesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\obj\Debug\net6.0\zlesson.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\obj\Debug\net6.0\zlesson.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\obj\Debug\net6.0\zlesson.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\obj\Debug\net6.0\zlesson.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\obj\Debug\net6.0\refint\zlesson.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\obj\Debug\net6.0\zlesson.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\obj\Debug\net6.0\zlesson.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\zlesson\obj\Debug\net6.0\ref\zlesson.dll

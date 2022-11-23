@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\bin\Debug\net6.0\01Ders.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\bin\Debug\net6.0\01Ders.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\bin\Debug\net6.0\01Ders.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\bin\Debug\net6.0\01Ders.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\bin\Debug\net6.0\01Ders.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\obj\Debug\net6.0\01Ders.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\obj\Debug\net6.0\01Ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\obj\Debug\net6.0\01Ders.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\obj\Debug\net6.0\01Ders.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\obj\Debug\net6.0\01Ders.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\obj\Debug\net6.0\01Ders.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\obj\Debug\net6.0\refint\01Ders.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\obj\Debug\net6.0\01Ders.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\obj\Debug\net6.0\01Ders.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\01Ders\obj\Debug\net6.0\ref\01Ders.dll

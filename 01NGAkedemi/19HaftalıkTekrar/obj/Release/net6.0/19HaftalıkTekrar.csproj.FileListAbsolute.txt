@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\bin\Release\net6.0\19HaftalıkTekrar.exe
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\bin\Release\net6.0\19HaftalıkTekrar.deps.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\bin\Release\net6.0\19HaftalıkTekrar.runtimeconfig.json
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\bin\Release\net6.0\19HaftalıkTekrar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\bin\Release\net6.0\19HaftalıkTekrar.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\obj\Release\net6.0\19HaftalıkTekrar.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\obj\Release\net6.0\19HaftalıkTekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\obj\Release\net6.0\19HaftalıkTekrar.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\obj\Release\net6.0\19HaftalıkTekrar.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\obj\Release\net6.0\19HaftalıkTekrar.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\obj\Release\net6.0\19HaftalıkTekrar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\obj\Release\net6.0\refint\19HaftalıkTekrar.dll
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\obj\Release\net6.0\19HaftalıkTekrar.pdb
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\obj\Release\net6.0\19HaftalıkTekrar.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C#\01NGAkedemi\19HaftalıkTekrar\obj\Release\net6.0\ref\19HaftalıkTekrar.dll

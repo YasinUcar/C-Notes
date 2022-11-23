@@ -1,0 +1,17 @@
+F:\zYedekler\C#\01NGAkedemi\32Performans\bin\Debug\net6.0\32Performans.exe
+F:\zYedekler\C#\01NGAkedemi\32Performans\bin\Debug\net6.0\32Performans.deps.json
+F:\zYedekler\C#\01NGAkedemi\32Performans\bin\Debug\net6.0\32Performans.runtimeconfig.json
+F:\zYedekler\C#\01NGAkedemi\32Performans\bin\Debug\net6.0\32Performans.dll
+F:\zYedekler\C#\01NGAkedemi\32Performans\bin\Debug\net6.0\32Performans.pdb
+F:\zYedekler\C#\01NGAkedemi\32Performans\obj\Debug\net6.0\32Performans.csproj.AssemblyReference.cache
+F:\zYedekler\C#\01NGAkedemi\32Performans\obj\Debug\net6.0\32Performans.GeneratedMSBuildEditorConfig.editorconfig
+F:\zYedekler\C#\01NGAkedemi\32Performans\obj\Debug\net6.0\32Performans.AssemblyInfoInputs.cache
+F:\zYedekler\C#\01NGAkedemi\32Performans\obj\Debug\net6.0\32Performans.AssemblyInfo.cs
+F:\zYedekler\C#\01NGAkedemi\32Performans\obj\Debug\net6.0\32Performans.csproj.CoreCompileInputs.cache
+F:\zYedekler\C#\01NGAkedemi\32Performans\obj\Debug\net6.0\32Performans.dll
+F:\zYedekler\C#\01NGAkedemi\32Performans\obj\Debug\net6.0\refint\32Performans.dll
+F:\zYedekler\C#\01NGAkedemi\32Performans\obj\Debug\net6.0\32Performans.pdb
+F:\zYedekler\C#\01NGAkedemi\32Performans\obj\Debug\net6.0\32Performans.genruntimeconfig.cache
+F:\zYedekler\C#\01NGAkedemi\32Performans\obj\Debug\net6.0\ref\32Performans.dll
+F:\zYedekler\C#\01NGAkedemi\32Performans\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\zYedekler\C#\01NGAkedemi\32Performans\obj\Debug\net6.0\32Performans.csproj.CopyComplete
