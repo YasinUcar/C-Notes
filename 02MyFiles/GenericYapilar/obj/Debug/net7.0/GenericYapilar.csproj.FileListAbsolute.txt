@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\bin\Debug\net7.0\GenericYapilar.exe
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\bin\Debug\net7.0\GenericYapilar.deps.json
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\bin\Debug\net7.0\GenericYapilar.runtimeconfig.json
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\bin\Debug\net7.0\GenericYapilar.dll
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\bin\Debug\net7.0\GenericYapilar.pdb
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\obj\Debug\net7.0\GenericYapilar.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\obj\Debug\net7.0\GenericYapilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\obj\Debug\net7.0\GenericYapilar.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\obj\Debug\net7.0\GenericYapilar.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\obj\Debug\net7.0\GenericYapilar.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\obj\Debug\net7.0\GenericYapilar.dll
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\obj\Debug\net7.0\refint\GenericYapilar.dll
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\obj\Debug\net7.0\GenericYapilar.pdb
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\obj\Debug\net7.0\GenericYapilar.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\GenericYapilar\obj\Debug\net7.0\ref\GenericYapilar.dll
