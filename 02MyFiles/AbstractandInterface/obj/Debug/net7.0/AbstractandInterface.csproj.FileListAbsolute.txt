@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\bin\Debug\net7.0\AbstractandInterface.exe
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\bin\Debug\net7.0\AbstractandInterface.deps.json
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\bin\Debug\net7.0\AbstractandInterface.runtimeconfig.json
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\bin\Debug\net7.0\AbstractandInterface.dll
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\bin\Debug\net7.0\AbstractandInterface.pdb
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\obj\Debug\net7.0\AbstractandInterface.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\obj\Debug\net7.0\AbstractandInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\obj\Debug\net7.0\AbstractandInterface.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\obj\Debug\net7.0\AbstractandInterface.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\obj\Debug\net7.0\AbstractandInterface.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\obj\Debug\net7.0\AbstractandInterface.dll
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\obj\Debug\net7.0\refint\AbstractandInterface.dll
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\obj\Debug\net7.0\AbstractandInterface.pdb
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\obj\Debug\net7.0\AbstractandInterface.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\C-Sharp-Notes\02MyFiles\AbstractandInterface\obj\Debug\net7.0\ref\AbstractandInterface.dll
