@@ -30,3 +30,10 @@ Console.WriteLine(Math.Truncate(3.14));
 Console.WriteLine(Math.Sign(150));//+1
 Console.WriteLine(Math.Sign(-150));//-1
 #endregion
+
+#region Clamp: Verilen değerin, belirtilen minimum ve maksimum değerlerini aşmadığından emin olmamızı sağlar.
+float horizontalAxis = Input.GetAxis("Horizontal");
+Vector3 newPosition = transform.position + new Vector3(horizontalAxis * _speed * Time.deltaTime, 0, 0);
+newPosition.x = Mathf.Clamp(newPosition.x, -_limitHorizontal, _limitHorizontal);
+#endregion
+
