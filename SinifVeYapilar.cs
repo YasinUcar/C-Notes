@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace SampleCodes.ClassandBuilding
 {
-    public class SınıfVeYapılar : MonoBehaviour
+    public class SinifVeYapilar : MonoBehaviour
     {
 
         #region Base Class : Bu sınıftan bir nesne üretilmeyecek ancak kalıtım yoluyla başka sınıflardan türeyecek
